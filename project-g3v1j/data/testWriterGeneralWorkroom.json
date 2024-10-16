@@ -1,0 +1,18 @@
+[
+    {
+    "name": "Kate",
+    "age": 20,
+    "height": 165,
+    "gripStyle": "penhold grip",
+    "score": 0,
+    "particStatus": false
+    },
+    {
+    "name": "John",
+    "age": 32,
+    "height": 184,
+    "gripStyle": "shakehand grip",
+    "score": 20.5,
+    "particStatus": false  
+    }
+]

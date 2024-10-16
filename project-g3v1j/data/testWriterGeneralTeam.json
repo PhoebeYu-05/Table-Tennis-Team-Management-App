@@ -1,0 +1,7 @@
+{
+    "name": "My team",
+    "team": [
+        {"name": "Jack"},
+        {"name": "Angela"}
+    ]
+}
